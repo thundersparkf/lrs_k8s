@@ -1,5 +1,4 @@
-# lrs_k8s
-# ADL_LRS_K8S
+# ADLNET'S Learning Management System in Kubernetes
 
 Built upon [adl-lrs-docker](https://github.com/vbhayden/adl-lrs-docker) to implement [adlnet's ADL_LRS](https://github.com/adlnet/ADL_LRS) with a touch of Kubernetes.
 
