@@ -3,6 +3,8 @@
 
 Built upon [adl-lrs-docker](https://github.com/vbhayden/adl-lrs-docker) to implement [adlnet's ADL_LRS](https://github.com/adlnet/ADL_LRS) with a touch of Kubernetes.
 
+## Docker images
+To use your own docker images for the LRS and Nginx pods, please refer to the [ADL_LRS Docker deployment](https://github.com/vbhayden/adl-lrs-docker.git)
 
 ## Setup Kubernetes cluster
 
